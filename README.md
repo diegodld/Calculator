@@ -1,2 +1,2 @@
 # Calculator
-default Calculator
+Calculadora simples com JS.
